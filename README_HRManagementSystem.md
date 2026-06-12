@@ -1,4 +1,4 @@
-# 🏢 HR Management System
+# HR Management System
 
 **Course:** Database Management / SQL  
 **Semester:** 4  
@@ -19,7 +19,7 @@ Four distinct department portals (Admin, HR, Finance, Operations) each have diff
 
 ## Features
 
-### 🔐 Role-Based Access Control (RBAC)
+### Role-Based Access Control (RBAC)
 | Role | Portal Access |
 |------|--------------|
 | Admin | Full access — all modules + user management |
@@ -27,7 +27,7 @@ Four distinct department portals (Admin, HR, Finance, Operations) each have diff
 | Finance | Salary (read-only), Reports (finance reports only) |
 | Operations | Employees (view), Departments (view), Applicants, Interviews, Reports |
 
-### 📋 Modules
+### Modules
 
 | Module | Description |
 |--------|-------------|
@@ -41,7 +41,7 @@ Four distinct department portals (Admin, HR, Finance, Operations) each have diff
 | Reports | Pre-built SQL reports filtered by role |
 | Users & Roles | Admin-only — add/remove system users and assign roles |
 
-### 📊 Reports (Role-Filtered)
+### Reports (Role-Filtered)
 - Salary Report — All Employees
 - Department Wise Salary Total
 - Employees Earning Above Average Salary
