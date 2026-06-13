@@ -1,11 +1,9 @@
 # HR Management System
 
-**Course:** Database Management / SQL  
-**Semester:** 4  
+**Course:** Database Management / SQL 
 **Language:** Python  
 **Database:** PostgreSQL  
 **Libraries:** Tkinter, psycopg2  
-**Type:** Final Project
 
 ---
 
@@ -61,7 +59,7 @@ Four distinct department portals (Admin, HR, Finance, Operations) each have diff
 
 | Component | Detail |
 |-----------|--------|
-| Language | Python 3 |
+| Language | Python  |
 | GUI Framework | Tkinter + ttk |
 | Database | PostgreSQL |
 | DB Connector | psycopg2 |
