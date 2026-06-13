@@ -1,10 +1,8 @@
-# 🚕 Cab Management System
+#  Cab Management System
 
 **Course:** Programming in Business  
-**Semester:** 2 / 3  
 **Language:** Python  
 **Libraries:** Tkinter, NumPy, Pandas, Matplotlib  
-**Type:** Final Project
 
 ---
 
