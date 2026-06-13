@@ -1,9 +1,8 @@
-# 🏦 Banking System
+#  Banking System
 
 **Course:** Programming in Business
-**Semester:** 2 / 3
 **Language:** Python (Console-based)
-**Type:** Mini Project
+
 
 ---
 
